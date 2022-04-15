@@ -1,0 +1,24 @@
+.navbar-container {
+  border-bottom: 1px solid #DBDBDB !important;
+}
+
+.form-control {
+  height: 36px !important;
+  width: 240px !important;
+  background-color: #efefef !important;
+  border: none !important;
+}
+
+.add-btn, .home-btn {
+  border: none;
+  background-color: #fff;
+}
+
+.content-info img {
+  height: 3rem;
+}
+
+.main-card:hover {
+  opacity: .7;
+  cursor: pointer;
+}
